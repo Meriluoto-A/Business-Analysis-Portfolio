@@ -14,4 +14,4 @@ A collection of business analysis, valuation, strategy, and analytics projects c
 🎯 **Strategic Thinking** 
 - The Ten Schools of Strategy
 - Essay based on Henry Mintzberg's strategic management framework
-- File: Strategic_Thinking_Essay.pdf
+- File: 
