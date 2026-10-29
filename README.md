@@ -1,4 +1,4 @@
-**Business Analysis Portfolio**  
+#**Business Analysis Portfolio**#  
 A collection of business analysis, valuation, strategy, and analytics projects completed during my economics studies.
 
 📁 **Projects**   
