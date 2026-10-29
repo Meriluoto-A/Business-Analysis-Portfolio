@@ -1,12 +1,12 @@
-<br>📊** Business Analysis Portfolio** <br>
+📊**Business Analysis Portfolio**
 A collection of business analysis, valuation, strategy, and analytics projects completed during my economics studies.
 
-📁 Projects
-💰 Strategic Growth Investing
-📈 Dexcom Inc. Valuation
+📁 **Projects**  
+💰 Strategic Growth Investing 
+📈 Dexcom Inc. Valuation 
 Objective Estimate the intrinsic value of Dexcom using multiple valuation approaches.
 
-Methods
+**Methods*
 
 📉 DCF Valuation
 ⚖️ Relative Valuation
