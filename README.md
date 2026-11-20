@@ -16,5 +16,5 @@ A collection of business analysis, valuation, strategy, and analytics projects c
 - Essay based on Henry Mintzberg's strategic management framework
 - File: Mintzberg´s_Ten_Schools_of_Thought.pdf
 
-📈 ** Capital Budgeting**
+📈 **Capital Budgeting**
 - ...
